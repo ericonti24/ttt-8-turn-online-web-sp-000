@@ -14,7 +14,7 @@ end
   #board[index] != " "
 #end
 
-def input_to_index(user_input)
+#def input_to_index(user_input)
   #user_input.to_i - 1
 #
 def move(board, index, current_player = "X")
